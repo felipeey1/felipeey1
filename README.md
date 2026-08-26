@@ -2,7 +2,7 @@
 
 Profissional de Tecnologia da Informação e estudante de Ciência da Computação, com experiência prática em suporte técnico, manutenção de computadores, diagnóstico de hardware e configuração de sistemas.
 
-Atualmente, estou ampliando minha atuação para **desenvolvimento de software**, com foco em construção de aplicações, APIs, banco de dados e projetos full stack.
+Atualmente, estou ampliando minha atuação para **desenvolvimento de software**, com foco em aplicações, APIs, banco de dados e projetos full stack.
 
 ## 🚀 Sobre mim
 
@@ -14,8 +14,6 @@ Atualmente, estou ampliando minha atuação para **desenvolvimento de software**
 * 🌱 Atualmente aprofundando meus conhecimentos em **desenvolvimento de software, APIs, banco de dados e back-end**
 
 ## 🛠️ Tecnologias e ferramentas
-
-### Desenvolvimento
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge\&logo=html5)
@@ -31,9 +29,9 @@ Atualmente, estou ampliando minha atuação para **desenvolvimento de software**
 
 ### 📝 DevNotes
 
-Aplicação desenvolvida inicialmente como projeto front-end e em processo de evolução para uma aplicação completa.
+Projeto front-end voltado para organização e gerenciamento de notas.
 
-**Objetivo:** transformar o projeto em uma solução full stack com autenticação, banco de dados, API e gerenciamento completo de notas.
+**Próxima evolução:** autenticação, banco de dados, API e CRUD completo.
 
 [Ver projeto](https://github.com/felipeey1/devnotes)
 
@@ -43,7 +41,7 @@ Aplicação desenvolvida inicialmente como projeto front-end e em processo de ev
 
 Projeto voltado para produtividade e organização pessoal.
 
-**Objetivo:** evoluir para uma aplicação completa com gerenciamento de tarefas, prioridades, categorias, progresso e persistência de dados.
+**Próxima evolução:** gerenciamento de tarefas, prioridades, categorias, progresso e persistência de dados.
 
 [Ver projeto](https://github.com/felipeey1/focus-desk)
 
@@ -51,17 +49,11 @@ Projeto voltado para produtividade e organização pessoal.
 
 ### 🔗 Hub Integration
 
-Projeto de interface voltado para gerenciamento e centralização de integrações.
+Projeto voltado para gerenciamento e centralização de integrações.
 
-**Objetivo:** evoluir para uma aplicação com APIs, autenticação, histórico de integrações, status e gerenciamento de serviços.
+**Próxima evolução:** APIs, autenticação, histórico de integrações, status e gerenciamento de serviços.
 
 [Ver projeto](https://github.com/felipeey1/hub-integration)
-
-## 📊 GitHub
-
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeey1\&show_icons=true\&hide_border=true\&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeey1\&layout=compact\&hide_border=true\&theme=transparent)
 
 ## 📚 Formação e certificações
 
@@ -73,13 +65,9 @@ Projeto de interface voltado para gerenciamento e centralização de integraçõ
 * 📜 HTML Essentials — Cisco
 * 📜 Prevenção e Reação aos Incidentes Cibernéticos — SENAI
 
-## 🎯 Objetivo profissional
+## 🎯 Atualmente estudando
 
-Continuar evoluindo na área de tecnologia, combinando minha experiência prática em TI com o desenvolvimento de software.
-
-Meu objetivo é aprofundar meus conhecimentos em:
-
-`Back-end` `APIs REST` `Banco de Dados` `Node.js` `Full Stack` `Cloud`
+`Desenvolvimento de Software` `APIs REST` `Banco de Dados` `Back-end` `Full Stack`
 
 ## 🤝 Conecte-se comigo
 
@@ -89,6 +77,4 @@ Meu objetivo é aprofundar meus conhecimentos em:
 
 ---
 
-### 💡 Em constante evolução
-
-Tecnologia é uma área de aprendizado contínuo. Meu foco é transformar conhecimento em projetos práticos e continuar evoluindo como profissional de TI e desenvolvedor.
+> Em constante evolução, buscando transformar conhecimento em projetos práticos e soluções reais.
